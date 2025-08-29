@@ -8,3 +8,4 @@ module.exports = {
   
   TIMEZONE: "Africa/Harare" //put your country timeZone....leave blank if u don't know.
 };
+V2
